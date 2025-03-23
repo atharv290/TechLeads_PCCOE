@@ -20,7 +20,7 @@ The *Mental Health Chatbot* is an AI-powered assistant designed to help users wi
 
 ## 📂 Project Structure
 bash
-MentalHealthChatBot/
+TechLeads_PCCOE/
 ├── backend/
 │   ├── app.py  # Main Flask App
 │   ├── config.py  # Database Configuration
