@@ -38,7 +38,7 @@ TechLeads_PCCOE/
 ## 📥 Installation & Setup
 ### 🔹 *1. Clone the Repository*
 sh
-git clone [https://github.com/yashn555/MentalHealthChatBot.git](https://github.com/atharv290/TechLeads_PCCOE.git)
+git clone https://github.com/atharv290/TechLeads_PCCOE.git
 cd MentalHealthChatBot
 
 
